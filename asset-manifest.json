@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Funiture_Website/static/css/main.1ba2cd44.css",
+    "main.js": "/Funiture_Website/static/js/main.661934d2.js",
+    "static/media/IMG_3269.JPG": "/Funiture_Website/static/media/IMG_3269.e19adac1fcfa3ee92416.JPG",
+    "static/media/IMG_3264.JPG": "/Funiture_Website/static/media/IMG_3264.5f695c37e85dc8ce2830.JPG",
+    "static/media/IMG_3263.JPG": "/Funiture_Website/static/media/IMG_3263.6cfeea3b7f943357ec8b.JPG",
+    "index.html": "/Funiture_Website/index.html",
+    "main.1ba2cd44.css.map": "/Funiture_Website/static/css/main.1ba2cd44.css.map",
+    "main.661934d2.js.map": "/Funiture_Website/static/js/main.661934d2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ba2cd44.css",
+    "static/js/main.661934d2.js"
+  ]
+}
